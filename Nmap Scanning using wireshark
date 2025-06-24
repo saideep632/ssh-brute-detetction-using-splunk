@@ -1,0 +1,8 @@
+## 🌐 Port Scanning Detection using Wireshark and Nmap
+
+**Tools:** Wireshark, Nmap, Linux  
+**Summary:**
+- Performed TCP and UDP scans using `nmap` (`-sT`, `-sS`, `-sU`).
+- Captured network traffic using Wireshark.
+- Detected SYN flood patterns and three-way handshakes.
+- Analyzed packet flags and responses to detect scanning behavior.
